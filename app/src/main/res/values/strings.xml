@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tripsum</string>
+    <string name="tab_text_1">Start</string>
+    <string name="tab_text_2">Show</string>
+    <string name="tab_text_3">Stop</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
